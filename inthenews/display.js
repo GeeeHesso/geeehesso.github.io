@@ -2,7 +2,7 @@ var display_element = document.getElementById('newsresults');
 
 console.log("Test")
 
-   $.getJSON('{{site.baseurl}}/news.json', function(data) {
+   $.getJSON('news.json', function(data) {
     var appendString = '';
        $.each(data.news, function(i, f) {
 	  console.log(f.display)

@@ -1,4 +1,6 @@
-var display_element = document.getElementById('news-results');
+var display_element = document.getElementById('newsresults');
+
+console.log("Test")
 
    $.getJSON('{{site.baseurl}}/news.json', function(data) {
     var appendString = '';

@@ -1,0 +1,53 @@
+---
+layout: default
+title: Results
+search: exclude
+---
+	<h1>{{ page.title }}</h1>
+	<div class="container">
+	<form action="index.html" method="get">
+	  <label for="search-box">Search</label>
+	  <input type="text" id="search-box" name="query">
+	  <input type="submit" value="Go!">
+	</form>
+
+    <ul id="search-results_pub">pub</ul>
+    <ul id="search-results_news">news</ul>
+    <ul id="search-results_pres">pres</ul>
+    <ul id="search-results_pages">pages</ul>
+
+	<script>
+	  window.store = {
+		{% for page in site.pages %}
+			{% unless page.search == "exclude" %}
+				"{{ page.url | slugify }}": {
+				"title"    : "{{ page.title | escape }}",
+				"url"      : "{{ site.baseurl }}{{ page.url }}",
+				"category" : "{{ page.category }}",
+				"tags"     : "{{ page.tags | join: ', ' }}",
+				"date"     : "{{ page.date }}"
+				},
+			{% endunless %}      
+		{% endfor %}
+		{% for post in site.posts %}
+			{% unless post.search == "exclude" %}
+				"{{ post.url | slugify }}": {
+				"title"    : "{{ post.title | escape }}",
+				"url"      : "{{ site.baseurl }}{{ post.url }}",
+				"category" : "{{ post.category }}",
+				"tags"     : "{{ post.tags | join: ', ' }}",
+				"date"     : "{{ post.date }}"
+
+				} {% unless forloop.last %},{% endunless %}
+			{% endunless %}      
+		{% endfor %}
+
+	  };
+	  
+	</script>
+
+	<script src="/jquery.js"></script>
+	<script src="/search/lunr.js"></script>
+	<script src="/search/search.js"></script>
+			
+	</div><!-- /.container -->

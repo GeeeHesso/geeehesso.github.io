@@ -1,0 +1,76 @@
+{
+    "news": {
+        "n_0": {
+            "authors": "",
+            "title": "Barrage \u00e0 sec, Black-out en vue",
+            "publisher": "Le Nouvelliste",
+            "date": "2017",
+            "tags": "",
+            "display": "Barrage \u00e0 sec, Black-out en vue, <b>Le Nouvelliste</b>",
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/Barrages_a_sec_black_out_en_vue"
+        },
+        "n_1": {
+            "authors": "",
+            "title": "Champ\u00e9ry capitale internationale",
+            "publisher": "Le Nouvelliste",
+            "date": "2017",
+            "tags": "",
+            "display": "Champ\u00e9ry capitale internationale, <b>Le Nouvelliste</b>",
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/Champery_capitale_internationale"
+        },
+        "n_2": {
+            "authors": "",
+            "title": "Ligne \u00e9lectrique Haute Tension Chamoson-Chippis",
+            "publisher": "RhoneFM",
+            "date": "2017",
+            "tags": "",
+            "display": "Ligne \u00e9lectrique Haute Tension Chamoson-Chippis, <b>RhoneFM</b>",
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/RHONEFM_ligne_electrique_HT"
+        },
+        "n_3": {
+            "authors": "",
+            "title": "Hochspannungsleitungen - ein spannendes Thema",
+            "publisher": "RRO",
+            "date": "2017",
+            "tags": "",
+            "display": "Hochspannungsleitungen - ein spannendes Thema, <b>RRO</b>",
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/RRO_Hochspannungleitung"
+        },
+        "n_4": {
+            "authors": "",
+            "title": "L'\u00e9lectricit\u00e9, un monde aussi complexe que fascinant",
+            "publisher": "RTS",
+            "date": "2017",
+            "tags": "",
+            "display": "L'\u00e9lectricit\u00e9, un monde aussi complexe que fascinant, <b>RTS</b>",
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/RTS_electricite_un_monde_fascinant"
+        },
+        "n_5": {
+            "authors": "",
+            "title": "La grande hydraulique et la strat\u00e9gie \u00e9nerg\u00e9tique 2050",
+            "publisher": "CANAL9",
+            "date": "2017",
+            "tags": "",
+            "display": "La grande hydraulique et la strat\u00e9gie \u00e9nerg\u00e9tique 2050, <b>CANAL9</b>",
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/In_the_News/CANAL9_grande_hydraulique"
+        },
+        "n_6": {
+            "authors": "",
+            "title": "La sortie du nucl\u00e9aire a un prix climatiqu",
+            "publisher": "La sortie du nucl\u00e9aire a un prix climatiqu",
+            "date": "2016",
+            "tags": "",
+            "display": "La sortie du nucl\u00e9aire a un prix climatique",
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2016/In_the_News/La_sortie_du_nucleaire_a_un_prix_climatique"
+        },
+        "n_7": {
+            "authors": "",
+            "title": "Vote sur la sortie du nucl\u00e9aire en Suiss",
+            "publisher": "Vote sur la sortie du nucl\u00e9aire en Suiss",
+            "date": "2016",
+            "tags": "",
+            "display": "Vote sur la sortie du nucl\u00e9aire en Suisse",
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2016/In_the_News/RCANADA_Vote_sortie_nucleaire"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Blog
+---
+
+	<h1 style="margin-bottom: 70px">{{ page.title }}</h1>
+	<ul class="posts">
+
+		{% for post in site.posts %}
+			<li style="margin-bottom: 50px"><span>{{ post.date | date_to_string }}</span> » <a class= link href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}<br></a><div style="margin-left: 100px; font-size:0.7em;text-align: justify;">{{ post.excerpt | truncatewords:50 | remove: '<p>' | remove: '</p>' }}</div></li>
+
+		{% endfor %}
+	</ul>

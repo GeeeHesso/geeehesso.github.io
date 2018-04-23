@@ -1,0 +1,31 @@
+---
+search: exclude
+---
+[
+  {% for page in site.pages %}
+   {% unless page.search == "exclude" %}
+    {
+    
+      "title"    : "{{ page.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ page.url }}",
+      "category" : "{{ page.category }}",
+      "tags"     : "{{ page.tags | join: ', ' }}",
+      "date"     : "{{ page.date }}"
+    },
+    {% endunless %}      
+  {% endfor %}
+
+  {% for post in site.posts %}
+   {% unless post.search == "exclude" %}
+    {
+    
+      "title"    : "{{ post.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "date"     : "{{ post.date }}"
+      
+    } {% unless forloop.last %},{% endunless %}
+    {% endunless %}      
+  {% endfor %}
+]

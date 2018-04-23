@@ -1,0 +1,32 @@
+---
+layout: default
+title: Smartgrid
+---
+	<h1>{{ page.title }}</h1>
+	<div class="container">
+
+<p class=main>
+Under the energy transition, the penetration of non-dispatchable electricity productions is steadily increasing, which results in large uncontrolled fluctuations in power generation. Enforcing the balance between power demand and supply becomes a challenge. <b>D</b>emand <b>S</b>ide <b>M</b>anagement <b>(DSM)</b>, which consists in shifting the consumption at moments of excess production, is a promising path to meet this challenge.
+</p>
+<p class=main>
+At the distribution network level, thermostatically controllable loads and batteries provide the flexibility necessary to achieve this goal. Furthermore, the potential for DSM is enhanced by the increased electrification of heating and transportation (electric vehicles), and the decreasing electrical storage prices.
+</p>
+<p class=main>
+However, DSM also raises a number of new questions:
+
+<ul>
+  <li>How and when to engage the load flexibility in a way that is non-disruptive for the consumers?</li>
+  <li>What smart grid infrastructure, and what form of control (centralized versus distributed) is required to coordinate the load shifting?</li>
+  <li>What privacy standards and incentives are necessary to ensure consumer participation?</li>
+</ul>  
+    
+To name but a few.
+</p>
+<p class=main>
+Making use of the flexibility provided by the buildings sizeable thermal inertia, that allows to delay or anticipate electric heating operation, together with household electrical storage capacities, we propose a non disruptive, centralized DSM algorithm that smoothens the total load curve of the cluster of dwellings it pilots. Setting up the baseline load is based on weather forecasts for a receding time-horizon covering the next 24 hours, while control actions are based on a priority list which is constructed from the current status of the dwellings and batteries. We show numerically that our DSM control scheme can be generically used to modify load curves of domestic households to achieve diverse goals such as peak shaving and valley filling, and increasing self consumption of local PV productions. Additionally, the smoothening of the total load curve contributes to maintaining the voltage levels within the prescribed quality bounds.
+</p>
+
+<img src="fig_site.png">
+<img src="fig_site1.png">
+
+</div><!-- /.container -->

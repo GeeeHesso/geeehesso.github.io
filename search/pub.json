@@ -199,13 +199,13 @@
             "display": "J. Meair, J. Bergfield, C. Stafford, P. Jacquod, <i>Local Temperature of Out-of-Equilibrium Quantum Electron Systems</i>, Phys. Rev. B <b>90</b>, 035407 (2014)"
         }, 
         "p_22": {
-            "publisher": "Physical Review **B*", 
-            "title": "Signatures of Majorana fermions in hybrid normal-superconducting rings", 
+            "publisher": "Physical Review B **88**, 214409", 
+            "title": "Signatures of Majorana Fermions in Hybrid Normal-Superconducting Rings", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2013/Papers/Majorana/majorana_markus.pdf", 
             "tags": "", 
-            "authors": "", 
+            "authors": "P. Jacquod, M. B\u00fcttiker", 
             "date": "2013", 
-            "display": "<i>Signatures of Majorana fermions in hybrid normal-superconducting rings</i>, Physical Review <b>B</b>"
+            "display": "P. Jacquod, M. B\u00fcttiker, <i>Signatures of Majorana Fermions in Hybrid Normal-Superconducting Rings</i>, Physical Review B <b>88</b>, 214409(R) (2013)"
         }
     }
 }

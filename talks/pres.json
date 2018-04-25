@@ -11,6 +11,15 @@
         }, 
         "p_01": {
             "authors": "", 
+            "date": "2018", 
+            "display": "<b>Le r\u00e9seau strat\u00e9gique 2025 de Swissgrid</b>", 
+            "publisher": "Le r\u00e9seau strat\u00e9gique 2025 de Swissgrid", 
+            "tags": "", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Le_reseau_strategique_2025_de_Swissgrid"
+        }, 
+        "p_02": {
+            "authors": "", 
             "date": "2017", 
             "display": "<b>Santa Fe</b>", 
             "publisher": "Santa Fe", 
@@ -18,7 +27,7 @@
             "title": "", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe"
         }, 
-        "p_02": {
+        "p_03": {
             "authors": "", 
             "date": "2017", 
             "display": "<b>Powertech</b>", 
@@ -27,7 +36,7 @@
             "title": "", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech"
         }, 
-        "p_03": {
+        "p_04": {
             "authors": "", 
             "date": "2017", 
             "display": "<b>Condynet</b>", 
@@ -36,7 +45,7 @@
             "title": "", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam"
         }, 
-        "p_04": {
+        "p_05": {
             "authors": "", 
             "date": "2017", 
             "display": "<b>Champ\u00e9ry</b>", 
@@ -45,7 +54,7 @@
             "title": "", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champ\u00e9ry"
         }, 
-        "p_05": {
+        "p_06": {
             "authors": "", 
             "date": "2017", 
             "display": "<b>BIRS Banff</b>", 
@@ -54,7 +63,7 @@
             "title": "", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff"
         }, 
-        "p_06": {
+        "p_07": {
             "authors": "", 
             "date": "2015", 
             "display": "<b>Konstanz</b>", 
@@ -63,7 +72,7 @@
             "title": "", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Konstanz"
         }, 
-        "p_07": {
+        "p_08": {
             "authors": "", 
             "date": "2015", 
             "display": "<b>Pecha Kucha</b>", 
@@ -72,7 +81,7 @@
             "title": "", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Pecha_Kucha"
         }, 
-        "p_08": {
+        "p_09": {
             "authors": "", 
             "date": "2014", 
             "display": "<b>ECS14</b>", 
@@ -81,7 +90,7 @@
             "title": "", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/ECS14"
         }, 
-        "p_09": {
+        "p_10": {
             "authors": "", 
             "date": "2014", 
             "display": "<b>IWDS14</b>", 
@@ -90,7 +99,7 @@
             "title": "", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/IWDS14"
         }, 
-        "p_10": {
+        "p_11": {
             "authors": "", 
             "date": "2014", 
             "display": "<b>SET14</b>", 
@@ -99,7 +108,7 @@
             "title": "", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/SET14"
         }, 
-        "p_11": {
+        "p_12": {
             "authors": "", 
             "date": "2014", 
             "display": "<b>Majorana EPFL</b>", 

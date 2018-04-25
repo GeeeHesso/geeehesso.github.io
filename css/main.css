@@ -1,6 +1,6 @@
-body { margin: 60px auto; width: 95%; }
+body { margin: 60px auto; width: 95%; background-color: #f6f4f2;}
 
-a.link { text-decoration: none; color: #999;}
+a.link { text-decoration: none; color: #3294d8;}
 a.link:hover { text-decoration: underline; color: black; }
 
 ul { font-size: 1em; line-height: 1.4em; color: #333; }

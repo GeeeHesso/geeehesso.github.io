@@ -1,112 +1,112 @@
 {
     "presentations": {
-        "p_0": {
-            "authors": "",
-            "title": "",
-            "publisher": "Bad Honnef",
-            "date": "2018",
-            "tags": "",
-            "display": "<b>Bad Honnef</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef"
-        },
-        "p_1": {
-            "authors": "",
-            "title": "",
-            "publisher": "Santa Fe",
-            "date": "2017",
-            "tags": "",
-            "display": "<b>Santa Fe</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe"
-        },
-        "p_2": {
-            "authors": "",
-            "title": "",
-            "publisher": "Powertech",
-            "date": "2017",
-            "tags": "",
-            "display": "<b>Powertech</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech"
-        },
-        "p_3": {
-            "authors": "",
-            "title": "",
-            "publisher": "Condynet",
-            "date": "2017",
-            "tags": "",
-            "display": "<b>Condynet</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam"
-        },
-        "p_4": {
-            "authors": "",
-            "title": "",
-            "publisher": "Champ\u00e9ry",
-            "date": "2017",
-            "tags": "",
-            "display": "<b>Champ\u00e9ry</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champ\u00e9ry"
-        },
-        "p_5": {
-            "authors": "",
-            "title": "",
-            "publisher": "BIRS Banff",
-            "date": "2017",
-            "tags": "",
-            "display": "<b>BIRS Banff</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff"
-        },
-        "p_6": {
-            "authors": "",
-            "title": "",
-            "publisher": "Konstanz",
-            "date": "2015",
-            "tags": "",
-            "display": "<b>Konstanz</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Konstanz"
-        },
-        "p_7": {
-            "authors": "",
-            "title": "",
-            "publisher": "Pecha Kucha",
-            "date": "2015",
-            "tags": "",
-            "display": "<b>Pecha Kucha</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Pecha_Kucha"
-        },
-        "p_8": {
-            "authors": "",
-            "title": "",
-            "publisher": "ECS14",
-            "date": "2014",
-            "tags": "",
-            "display": "<b>ECS14</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/ECS14"
-        },
-        "p_9": {
-            "authors": "",
-            "title": "",
-            "publisher": "IWDS14",
-            "date": "2014",
-            "tags": "",
-            "display": "<b>IWDS14</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/IWDS14"
-        },
         "p_10": {
-            "authors": "",
-            "title": "",
-            "publisher": "SET14",
-            "date": "2014",
-            "tags": "",
-            "display": "<b>SET14</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/SET14"
-        },
+            "publisher": "SET14", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/SET14", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2014", 
+            "display": "<b>SET14</b>"
+        }, 
         "p_11": {
-            "authors": "",
-            "title": "",
-            "publisher": "Majorana EPFL",
-            "date": "2014",
-            "tags": "",
-            "display": "<b>Majorana EPFL</b>",
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/Majorana_EPFL"
+            "publisher": "Majorana EPFL", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/Majorana_EPFL", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2014", 
+            "display": "<b>Majorana EPFL</b>"
+        }, 
+        "p_8": {
+            "publisher": "ECS14", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/ECS14", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2014", 
+            "display": "<b>ECS14</b>"
+        }, 
+        "p_9": {
+            "publisher": "IWDS14", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/IWDS14", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2014", 
+            "display": "<b>IWDS14</b>"
+        }, 
+        "p_6": {
+            "publisher": "Konstanz", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Konstanz", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2015", 
+            "display": "<b>Konstanz</b>"
+        }, 
+        "p_7": {
+            "publisher": "Pecha Kucha", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Pecha_Kucha", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2015", 
+            "display": "<b>Pecha Kucha</b>"
+        }, 
+        "p_4": {
+            "publisher": "Champ\u00e9ry", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champ\u00e9ry", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2017", 
+            "display": "<b>Champ\u00e9ry</b>"
+        }, 
+        "p_5": {
+            "publisher": "BIRS Banff", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2017", 
+            "display": "<b>BIRS Banff</b>"
+        }, 
+        "p_2": {
+            "publisher": "Powertech", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2017", 
+            "display": "<b>Powertech</b>"
+        }, 
+        "p_3": {
+            "publisher": "Condynet", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2017", 
+            "display": "<b>Condynet</b>"
+        }, 
+        "p_0": {
+            "publisher": "Bad Honnef", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2018", 
+            "display": "<b>Bad Honnef</b>"
+        }, 
+        "p_1": {
+            "publisher": "Santa Fe", 
+            "title": "", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe", 
+            "tags": "", 
+            "authors": "", 
+            "date": "2017", 
+            "display": "<b>Santa Fe</b>"
         }
     }
 }

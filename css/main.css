@@ -1,7 +1,7 @@
 body { margin: 60px auto; width: 95%; background-color: #f6f4f2;}
 
 a.link { text-decoration: none; color: #3294d8;}
-a.link:hover { text-decoration: underline; color: black; }
+a.link:hover { text-decoration: underline; color: #024675; }
 
 ul { font-size: 1em; line-height: 1.4em; color: #333; }
 
@@ -239,7 +239,7 @@ a.footer
 }
 
 .top a:hover{
-	color:white;
+	color: #f6f4f2;
 }
 
 .top > li:hover {
@@ -248,7 +248,7 @@ a.footer
 
 .top a {
 	display: block;
-	color: white;
+	color: #f6f4f2;
 	text-align: left;
 	padding: 14px 16px;
 	text-decoration: none;

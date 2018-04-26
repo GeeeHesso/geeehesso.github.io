@@ -1,4 +1,4 @@
-body { margin: 60px auto; width: 95%; background-color: #f6f4f2;}
+body { margin: 60px auto; width: 95%; /*background-color: #f6f4f2; Will be put back when the images will match*/}
 
 a.link { text-decoration: none; color: #3294d8;}
 a.link:hover { text-decoration: underline; color: #024675; }

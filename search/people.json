@@ -1,0 +1,49 @@
+{
+    "people": {
+        "p_00": {
+            "authors": "", 
+            "date": "", 
+            "display": "Pr Philippe Jacquod", 
+            "publisher": "", 
+            "tags": "Pr, professor, head, Philippe,Jacquod", 
+            "title": "Pr Philippe Jacquod", 
+            "url": "https://www.hevs.ch/en/rad-instituts/institute-of-systems-engineering/collaborateurs/uas-professor/jacquod-1629"
+        }, 
+        "p_01": {
+            "authors": "", 
+            "date": "", 
+            "display": "Robin Delabays", 
+            "publisher": "", 
+            "tags": "Doc, doctorate, student, Robin, Delabays", 
+            "title": "Robin Delabays", 
+            "url": "https://www.hevs.ch/en/rad-instituts/institute-of-systems-engineering/collaborateurs/research-assistant/delabays-6225"
+        }, 
+        "p_02": {
+            "authors": "", 
+            "date": "", 
+            "display": "Laurent Pagnier", 
+            "publisher": "", 
+            "tags": "doc doctorate, student, Laurent, Pagnier", 
+            "title": "Laurent Pagnier", 
+            "url": "https://www.hevs.ch/en/rad-instituts/institute-of-systems-engineering/collaborateurs/research-assistant/pagnier-5763"
+        }, 
+        "p_03": {
+            "authors": "", 
+            "date": "", 
+            "display": "David Tauxe", 
+            "publisher": "", 
+            "tags": "Engineer, David, Tauxe, awesome", 
+            "title": "David Tauxe", 
+            "url": "https://www.hevs.ch/en/rad-institutes/institute-of-systems-engineering/collaborateurs/assistant-uas/tauxe-15698"
+        }, 
+        "p_04": {
+            "authors": "", 
+            "date": "", 
+            "display": "Melvyn Tyloo", 
+            "publisher": "", 
+            "tags": "doc, doctorate, student, Melvyn, Tyloo", 
+            "title": "Melvyn Tyloo", 
+            "url": "https://www.hevs.ch/en/rad-institutes/institute-of-systems-engineering/collaborateurstyloo-13028"
+        }
+    }
+}

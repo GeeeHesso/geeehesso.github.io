@@ -98,7 +98,7 @@ if (searchTerm_temp_2) {
     results3 = idx.search(searchTerm_temp_3); // Get lunr to perform a search
   }
 
-  displaySearchResults(results, results2, results3, window.store, 'search-results_pages','Pages');
+  displaySearchResults(results, results2, results3, window.store, 'search_results_pages','Pages');
 
 
 // Publications
@@ -128,7 +128,7 @@ if (searchTerm_temp_2) {
       if (searchTerm_temp_3){
         results3 = idx.search(searchTerm_temp_3); // Get lunr to perform a search
       }
-      displaySearchResults(results, results2, results3, data.publication, 'search-results_pub','Publications'); 
+      displaySearchResults(results, results2, results3, data.publication, 'search_results_pub','Publications'); 
     });
 
   // News
@@ -160,7 +160,7 @@ if (searchTerm_temp_2) {
     if (searchTerm_temp_3){
       results3 = idx.search(searchTerm_temp_3); // Get lunr to perform a search
     }
-    displaySearchResults(results, results2, results3, data.news, 'search-results_news','News');
+    displaySearchResults(results, results2, results3, data.news, 'search_results_news','News');
   });
 
 // Talks
@@ -190,7 +190,37 @@ if (searchTerm_temp_2) {
     if (searchTerm_temp_3){
       results3 = idx.search(searchTerm_temp_3); // Get lunr to perform a search
     }
-    displaySearchResults(results, results2, results3, data.publication, 'search-results_pres','Talks'); 
+    displaySearchResults(results, results2, results3, data.publication, 'search_results_pres','Talks'); 
+  });
+
+//People
+  $.getJSON('people.json', function(data) {
+    var idx = lunr(function () {
+      this.field('id');
+      this.field('title', { boost: 10 });
+      this.field('author');
+      this.field('category');
+      this.field('tags');
+      //this.field('content');
+    
+      for (var key in data.people) { // Add the data to lunr
+        this.add({
+          'id': key,
+          'title': data.people[key].title,
+          'author': data.people[key].authors,
+          'category': data.people[key].date,
+          'tags':data.people[key].tags
+          //'content': window.store[key].content
+            });
+          }
+    });
+    var results = idx.search(searchTerm_temp); // Get lunr to perform a search
+    var results2 = idx.search(searchTerm_temp_2); // Get lunr to perform a search
+    var results3 ='';
+    if (searchTerm_temp_3){
+      results3 = idx.search(searchTerm_temp_3); // Get lunr to perform a search
+    }
+    displaySearchResults(results, results2, results3, data.people, 'search_results_people','People'); 
   });
 
 }

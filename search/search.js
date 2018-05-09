@@ -5,7 +5,7 @@ function displaySearchResults(results, results2, results3, store,container, tag)
   // console.log(results2)
   // console.log(results3)
   if (results.length /*|| results2.length*/) { // Are there any results?
-    var appendString = '';
+    var appendString = '<b>Results in ' +tag+' :</b>'+'<br>';
 
     for (var i = 0; i < results.length; i++) {  // Iterate over the results
       var item = store[results[i].ref];
@@ -26,7 +26,7 @@ function displaySearchResults(results, results2, results3, store,container, tag)
     }
     searchResults.innerHTML = appendString;
   } else {
-    searchResults.innerHTML = '<li>No results found in ' + tag+'</li>';
+    searchResults.innerHTML = '<b>No results found in ' + tag+'</b>';
 	//console.log('wow')
   }
 }

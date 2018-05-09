@@ -6,4 +6,4 @@ date: 2018-04-19
 tags: site online
 ---
 
-After months of hard work, we now have a operating site online. V1.0 is live and we'll keep improving and updating the site as we go.
+After months of hard work, we now have an operating site online. V1.0 is live and we'll keep improving and updating the site as we go.

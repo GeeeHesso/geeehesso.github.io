@@ -2,7 +2,7 @@
 layout: post
 title: "Global Warming is Man-Made"
 display_title: "Global Warming is Man-Made"
-date: 2018-04-19
+date: 2018-05-09
 tags: global warming
 ---
 

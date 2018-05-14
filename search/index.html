@@ -1,20 +1,21 @@
 ---
 layout: default
-title: Results
+title: Search
 search: exclude
 ---
 	<h1>{{ page.title }}</h1>
 	<div class="container">
-	<form action="index.html" method="get">
-	  <label for="search-box">Search</label>
+	<form action="index.html" method="get" style="padding-bottom: 50px">
+	  <label for="search-box"></label>
 	  <input type="text" id="search-box" name="query">
 	  <input type="submit" value="Go!">
 	</form>
 
-    <ul id="search-results_pub">pub</ul>
-    <ul id="search-results_news">news</ul>
-    <ul id="search-results_pres">pres</ul>
-    <ul id="search-results_pages">pages</ul>
+    <ul id="search_results_pub" style="padding-bottom: 20px">pub</ul>
+    <ul id="search_results_news" style="padding-bottom: 20px">news</ul>
+    <ul id="search_results_pres" style="padding-bottom: 20px">pres</ul>
+    <ul id="search_results_pages" style="padding-bottom: 20px">pages</ul>
+    <ul id="search_results_people" style="padding-bottom: 20px">pres</ul>
 
 	<script>
 	  window.store = {

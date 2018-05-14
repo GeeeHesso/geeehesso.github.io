@@ -10,13 +10,13 @@ function display_mail(display_var,display_el,el) {
 	if (display_var.val == 0){
 		document.getElementById(display_el).innerHTML = "Click me"
 		document.getElementById(display_el).style.MozTextDecorationStyle="none"
-		document.getElementById(display_el).style.color = "999"
+		document.getElementById(display_el).style.color = "#2d8dcf"
 		display_var.val = 1
 	}
 	else if (display_var.val == 1){
 		document.getElementById(display_el).innerHTML = window.atob(el)
 		document.getElementById(display_el).style.MozTextDecorationStyle="underline"
-		document.getElementById(display_el).style.color = "999"
+		document.getElementById(display_el).style.color = "#2d8dcf"
 		display_var.val = 0
 	}
 }
@@ -29,7 +29,7 @@ function display_mail_test(display_var,display_el,el,on_off){
 	}
 	else if(on_off==0 && display_var.val==0){
 		document.getElementById(display_el).innerHTML = "Click me"
-		document.getElementById(display_el).style.color = "#999"
+		document.getElementById(display_el).style.color = "#2d8dcf"
 	}
 }
 
@@ -43,7 +43,7 @@ function display_mail_test_click(display_var,display_el_mail,display_el_env,el){
 	}
 	else if (display_var.val == 1){
 		document.getElementById(display_el_mail).innerHTML = "Click me"
-		document.getElementById(display_el_mail).style.color = "#999"
+		document.getElementById(display_el_mail).style.color = "#2d8dcf"
 		document.getElementById(display_el_env).innerHTML = ''
 		display_var.val = 0
 	}

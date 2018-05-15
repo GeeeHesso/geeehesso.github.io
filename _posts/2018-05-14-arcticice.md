@@ -15,4 +15,6 @@ Links are here :
 
 * [New York Times - 05.14.2018 - Arctic Old Ice is Disappearing](https://www.nytimes.com/interactive/2018/05/14/climate/arctic-sea-ice.html)
 
+
 ![image](/blog/nyt_05SW.png)
+

@@ -1,4 +1,4 @@
-body { margin: 60px auto; width: 95%; background-color: #f6f4f2;}
+body { margin: 60px auto; width: 100%; background-color: #f6f4f2;}
 
 a.mail_link { text-decoration: none; color: #2d8dcf;}
 a.mail_link:hover { text-decoration: underline; color: #024675; }

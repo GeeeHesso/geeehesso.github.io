@@ -58,5 +58,6 @@ Sed condimentum risus orci, rhoncus aliquam odio aliquet ut. In hac habitasse pl
 Aenean vulputate laoreet risus, sit amet commodo lorem viverra tempus. Aenean libero massa, ornare imperdiet arcu vel, rutrum molestie lacus. Nunc vitae metus pharetra, pretium velit aliquam, efficitur dolor. Nulla sagittis lectus nec ligula facilisis tempor. Ut in malesuada justo, vitae tincidunt purus. Praesent id facilisis ante. Praesent est quam, efficitur a lobortis sed, ullamcorper facilisis ante. Duis maximus sodales ante eu cursus. Quisque vestibulum malesuada eros a semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce et bibendum turpis, eu sagittis lacus. Morbi imperdiet, elit a elementum tincidunt, massa felis auctor turpis, eu rhoncus lorem metus eget magna. Suspendisse cursus urna in faucibus consequat. Nulla dignissim ut libero volutpat accumsan. Nunc sem orci, facilisis non neque vitae, aliquet sodales libero. Sed pharetra commodo purus a accumsan.
 
 
-[![Alternate name for image. Will be displayed if the image can't be found](/home_img1.jpeg)](https://www.google.com/)
+[![Alternate name for image. Will be displayed if the image can't be found](/image/home_img1.jpeg)](https://www.google.com/)
+<img src="/image/home_img1.jpeg" alt="image" style="width: 700px;"/>
 ![Alternate name for image. Will be displayed if the image can't be found](/url_to_image.jpeg)

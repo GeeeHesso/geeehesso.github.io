@@ -46,6 +46,10 @@ img.map_detail {
 width:100%; height:auto;
 }
 
+img.banner{
+width:100%
+}
+
 /*image with the links*/
 
 div.research_img > div{
@@ -285,6 +289,9 @@ ul.top li.small_menu a:hover{
 		display:block;
 		/*color:red;*/
 	}
+	img.banner{
+		width:100%;
+	}
 	img {
 		width:500px; height:auto;
 	}
@@ -299,11 +306,11 @@ ul.top li.small_menu a:hover{
 	}
 	.p_column {
         width: 100%;
-    }
+    	}
 
 	.p_column2 {
         width: 100%;
-    }
+    	}
     /*ul.top {background-color: red;}*/
 }
 

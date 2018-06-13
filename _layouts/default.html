@@ -1,76 +1,10 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title><!-- this will display text in the tab -->
-			<!-- link to main stylesheet -->
-			<link rel="icon" href="/piGS.png">
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-			<style>
-				body {margin:0;}
+---
+layout: base
+---
+<div style="padding-left:50px;padding-right:120px;padding-top:50px;padding-bottom:50px;margin-top:30px;">
 
-				/*.active {
-				    background-color: red;
-				}*/
-			</style>
-		</head>
-		<body>
-			<nav>
-				<ul class="top"> <!--This will appear on all pages-->
-					<li><a href="/">Home</a></li>
-					<li class="element"><a href="/publications">Publications</a></li>
-	        		<li class="element">
-					<a href="/research">Research <i class="fa fa-caret-down"></i> </a>
-					<ul class="dropdown">
-						<li><a href="/research/smartgrid">Smartgrid</a></li>
-						<li><a href="/research/energytransition">Energy Transition</a></li>
-						<li><a href="/research/networkstability">Network Stability</a></li>
-						<li><a href="/research/networkrobustness">Network Robustness</a></li>
-					</ul>
-				</li>
-	        		<li class="element"><a href="/inthenews">In The News</a></li>
-		        	<li class="element"><a href="/talks">Talks</a></li>
-	        		<li class="element"><a href="/people">People</a></li>
-	        		<li class="element"><a href="/contact">Contact</a></li>
-	        		<!-- <li class="element"><a href="/blog">Blog</a></li> -->
-				<li style="float:right"><a> <i class="fa fa-search"></i></a>
-					<ul class="dropdown_menu">
-						<form style="float: right;" action="/search/index.html" method="get">
-							<input type="text" placeholder="Search..." id="search_input" name="query">
-						</form>
-					</ul>
-				</li>
-				<li class="small_menu" style="float:right"><a> <i class="fa fa-bars"></i></a>
-					<ul class="dropdown_menu">
-						<li><a href="/publications">Publications</a></li>
-						<li><a href="/research">Research <i class="fa fa-caret-left"></i></a>
-							<ul class="dropdown_menu_2">
-								<li><a href="/research/smartgrid">Smartgrid</a></li>
-								<li><a href="/research/energytransition">Energy Transition</a></li>
-								<li><a href="/research/networkstability">Network Stability</a></li>
-								<li><a href="/research/networkrobustness">Network Robustness</a></li>
-							</ul>
-						</li>
-						<li><a href="/inthenews">In The News</a></li>
-						<li><a href="/talks">Talks</a></li>
-						<li><a href="/people">People</a></li>
-						<li><a href="/contact">Contact</a></li>
-						<!-- <li><a href="/blog">Blog</a></li> -->
-					</ul>
-				</li> 
-				
-	    		</ul>
-			</nav>
-			<div style="padding:20px;margin-top:30px;">
+{{ content }}
+
+</div><!-- /.container -->
 			
-			{{ content }}
 			
-			</div><!-- /.container -->
-			
-			<footer>
-	    		<ul>
-	        		<li><a class="footer link" href="https://github.com/GeeeHesso" target="_blank"><img src="/GitHubMark1.png" alt="" style="float:left;width:22px;">&nbsp;&nbsp;&nbsp;github.com/GeeeHesso</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>

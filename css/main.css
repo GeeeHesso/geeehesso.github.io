@@ -1,7 +1,10 @@
-body { margin: 60px auto; width: 95%; /*background-color: #f6f4f2; Will be put back when the images will match*/}
+body { margin: 60px auto; width: 100%; background-color: #f6f4f2;}
 
-a.link { text-decoration: none; color: #3294d8;}
-a.link:hover { text-decoration: underline; color: #024675; }
+a.mail_link { text-decoration: none; color: #2d8dcf;}
+a.mail_link:hover { text-decoration: underline; color: #024675; }
+
+a.link { text-decoration: none; color: #2d8dcf;} /*3294d8*/
+a.link:hover { text-decoration: underline; color: #024675; } /*024675*/
 
 ul { font-size: 1em; line-height: 1.4em; color: #333; }
 
@@ -41,6 +44,10 @@ img.research_img:hover {
 
 img.map_detail {
 width:100%; height:auto;
+}
+
+img.banner{
+width:100%
 }
 
 /*image with the links*/
@@ -282,6 +289,9 @@ ul.top li.small_menu a:hover{
 		display:block;
 		/*color:red;*/
 	}
+	img.banner{
+		width:100%;
+	}
 	img {
 		width:500px; height:auto;
 	}
@@ -296,11 +306,11 @@ ul.top li.small_menu a:hover{
 	}
 	.p_column {
         width: 100%;
-    }
+    	}
 
 	.p_column2 {
         width: 100%;
-    }
+    	}
     /*ul.top {background-color: red;}*/
 }
 

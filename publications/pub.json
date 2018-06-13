@@ -50,7 +50,7 @@
             "date": "2017", 
             "display": "R. Delabays, T. Coletta, P. Jacquod, <i>Multistability of phase-locking in equal-frequency Kuramoto models on planar graphs</i>, J. Math. Phys <b>58</b>, 032701  (2017)", 
             "publisher": "J. Math. Phys **58**, 032701", 
-            "tags": " kuramoto multistability planar winding number loop flow ", 
+            "tags": " network_stability kuramoto multistability planar winding number loop flow ", 
             "title": "Multistability of phase-locking in equal-frequency Kuramoto models on planar graphs", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2017/Papers/Multistability_of_phase-locking_in_equal-frequency_Kuramoto_models_on_planar_graphs/Multistability_of_phase-locking_in_equal-frequency_Kuramoto_models_on_planar_graphs.pdf"
         }, 
@@ -68,7 +68,7 @@
             "date": "2017", 
             "display": "R. Delabays, M. Tyloo, P. Jacquod, <i>The Size of the Sync Basin Revisited</i>, Chaos <b>27</b>, 103109 (2017)", 
             "publisher": "Chaos **27**, 103109", 
-            "tags": " kuramoto cycle multistability basin attraction sync volume ", 
+            "tags": " network_stability kuramoto cycle multistability basin attraction sync volume ", 
             "title": "The Size of the Sync Basin Revisited", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2017/Papers/The_Size_of_the_Sync_Basin_Revisited/The_Size_of_the_Sync_Basin_Revisited.pdf"
         }, 
@@ -122,7 +122,7 @@
             "date": "2016", 
             "display": "R. Delabays, T. Coletta, P. Jacquod, <i>Multistability of phase-locking and topological winding numbers in locally coupled Kuramoto models on single-loop networks</i>, J. Mat. Phys <b>57</b>, 032703 (2016)", 
             "publisher": "J. Mat. Phys **57**, 032703", 
-            "tags": " kuramoto multistability winding number loop flow cycle ", 
+            "tags": " network_stability kuramoto multistability winding number loop flow cycle ", 
             "title": "Multistability of phase-locking and topological winding numbers in locally coupled Kuramoto models on single-loop networks", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2016/Papers/Multistability_of_phase-locking_and_topological_winding_numbers_in_locally_coupled_Kuramoto_models_on_single-loop_networks/Multistability_of_phase-locking_and_topological_winding_numbers_in_locally_coupled_Kuramoto_models_on_single-loop_networks.pdf"
         }, 
@@ -131,7 +131,7 @@
             "date": "2016", 
             "display": "T. Coletta, P. Jacquod, <i>Linear stability and the Braess paradox in coupled-oscillator networks and electric power grids</i>, Phys. Rev. E <b>93</b>, 032222 (2016)", 
             "publisher": "Phys. Rev. E **93**, 032222", 
-            "tags": " coupled oscillators braess paradox ", 
+            "tags": " network_stability coupled oscillators braess paradox ", 
             "title": "Linear stability and the Braess paradox in coupled-oscillator networks and electric power grids", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2016/Papers/Braess_Paradox/Braess_Paradox.pdf"
         }, 
@@ -140,7 +140,7 @@
             "date": "2016", 
             "display": "R. Delabays, T. Coletta, P. Jacquod, <i>Topologically protected loop flows in high voltage AC power grids</i>, New J. Phys. <b>18</b>, 103042 (2016)", 
             "publisher": "New J. Phys. **18**, 103042", 
-            "tags": " loop flow winding number topological protection ", 
+            "tags": " network_stability loop flow winding number topological protection ", 
             "title": "Topologically protected loop flows in high voltage AC power grids", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2016/Papers/Topological_Protection/Topological_Protection.pdf"
         }, 

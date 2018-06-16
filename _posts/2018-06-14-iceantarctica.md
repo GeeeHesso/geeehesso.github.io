@@ -13,7 +13,7 @@ The annual loss is right now only a fraction of the total ice volume in Antarcti
 A siderrmark, why was it that until that article came out, I was sure that ice gains were larger than ice losses in Antarctica ? I am certainly no expert in the field, and did not do a detailed search, yet the few first serious hits in my internet search on the problem reported ice gains. Why that bias ? Was this all orchestrated or was it just me not being careful enough in my literature search ? No matter what, this seems to be the last nail in the climatoskeptical coffin - ice loss or gain in Antarctica seemed to be the last hope they could have that there is no global warming. Sorry guys. 
 
 The Nature article reporting ice loss in Antarctica... :
-*  [Nature - 06.14.2018 - Mass balance of the Antarctic Ice Sheet from 1992 to 2017](https://www.nature.com/articles/s41586-018-0179-ywww.nytimes.com/interactive/2018/03/23/climate/arctic-ice-maximum.html)
+*  [Nature - 06.14.2018 - Mass balance of the Antarctic Ice Sheet from 1992 to 2017](https://www.nature.com/articles/s41586-018-0179-y)
 
 ...and earlier articles I was aware of, which reported ice mass loss :
 *  [Philosophical Transactions of the Royal Society A - 07.15.2006 - Mass balance of the Antarctic ice sheet](http://rsta.royalsocietypublishing.org/content/364/1844/1627)

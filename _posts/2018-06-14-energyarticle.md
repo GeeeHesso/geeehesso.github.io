@@ -12,4 +12,4 @@ Our results ? Well, have a look at our manuscript (see the link below) ! But in 
 
 Our article in Energy :
 * [L. Pagnier, P. Jacquod , *How fast can one overcome the paradox of the energy transition? A
-physico-economic model for the European power grid*, Energy **157** , 550 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)*  [Energy - 06.14.2018 - Mass balance of the Antarctic Ice Sheet from 1992 to 2017](https://www.nature.com/articles/s41586-018-0179-ywww.nytimes.com/interactive/2018/03/23/climate/arctic-ice-maximum.html)
+physico-economic model for the European power grid*, Energy **157** , 550 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)

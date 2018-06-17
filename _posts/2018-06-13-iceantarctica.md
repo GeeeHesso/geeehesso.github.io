@@ -2,7 +2,7 @@
 layout: post
 title: "The last nail in the climatoskeptical coffin"
 display_title: "The last nail in the climatoskeptical coffin"
-date: 2018-06-14
+date: 2018-06-13
 tags: climate change
 ---
 

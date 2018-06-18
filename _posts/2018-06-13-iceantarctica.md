@@ -15,7 +15,7 @@ A siderrmark, why was it that until that article came out, I was sure that ice g
 The Nature article reporting ice loss in Antarctica... :
 *  [Nature - 06.14.2018 - Mass balance of the Antarctic Ice Sheet from 1992 to 2017](https://www.nature.com/articles/s41586-018-0179-y)
 
-...and earlier articles I was aware of, which reported ice mass loss :
+...and earlier articles I was aware of, which reported ice mass gain in Antarctica :
 *  [Philosophical Transactions of the Royal Society A - 07.15.2006 - Mass balance of the Antarctic ice sheet](http://rsta.royalsocietypublishing.org/content/364/1844/1627)
 
 *  [Journal of Glaciology - 07.10.2017 - Mass gains of the Antarctic ice sheet exceed losses

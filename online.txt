@@ -1,0 +1,18 @@
+Note to get the site online on an other adress
+
+1/ Configure the 'A' records with the DNS provider
+	Must be set at a special adress:
+		185.199.108.153
+		185.199.109.153
+		185.199.110.153
+		185.199.111.153
+
+2/ Wait. If can take from a couple hours to two days for the change to make effect
+	check with:
+		dig etranselec.ch +noall +noanswer
+
+3/ Once the changes are done, change the custom domain in the Github page's setting
+
+4/ (Optional) Check the Https box
+	Might have to wait a few hours/days for this option to be avaiable.
+		...because magic I guess

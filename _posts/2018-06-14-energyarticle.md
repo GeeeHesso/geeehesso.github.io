@@ -13,3 +13,5 @@ Our results ? Well, have a look at our manuscript (see the link below) ! But in 
 Our article in Energy :
 * [L. Pagnier, P. Jacquod , *How fast can one overcome the paradox of the energy transition? A
 physico-economic model for the European power grid*, Energy **157** , 550 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)
+
+<img src="/image/DE_rev.pdf" alt="image" style="width: 700px;"/>

@@ -2,14 +2,79 @@
 layout: default
 title: Publications
 ---
-	
+    
 <h1>{{ page.title }}</h1>
 <div class="container">
 
-	<ol reversed id="publications-results"></ol>
+<form action="" onchange="selectFunction(years,authors,axes)" style="padding-bottom: 20px">
+  <select name="Years" id="Years">
+    <option value="All" >Years</option>
+    <option value="All" >--All</option>
+    <option value="2018">2018</option>
+    <option value="2017">2017</option>
+    <option value="2016">2016</option>
+    <option value="2015">2015</option>
+    <option value="2014">2014</option>
+    <option value="2013">2013</option>
+  </select>
+  <select name="Authors" id="Authors">
+    <option value="All" >Authors</option>
+    <option value="All" >--All</option>
+    <option value="Jacquod">P. Jacquod</option>
+    <option value="Delabays">R. Delabays</option>
+    <option value="Pagnier">L. Pagnier</option>
+    <option value="Tyloo">M. Tyloo</option>
+    <option value="Coletta">T. Coletta</option>
+  </select>
+  <select name="Axes" id="Axes">
+    <option value="All" >Axes</option>
+    <option value="All" >--All</option>
+    <option value="SmartGrid">SmartGrid</option>
+    <option value="energy_transition">EnergyTransition</option>
+    <option value="network_stability">Network Stability</option>
+    <option value="network_robustness">Network Robustness</option>
+  </select>
+</form>
+
+    <ol reversed id="publications-results"></ol>
 
 
 </div>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
 <script src="display.js"></script>
+
+<script>
+
+// function selectFunction() {
+//     var x = document.getElementById("Years").value
+//     var y = document.getElementById("Authors").value
+//     var z = document.getElementById("Axes").value
+    
+
+//     console.log(x);
+//     console.log(y);
+//     console.log(z);
+
+//     console.log('test');
+// }
+
+// console.log('test');
+
+// function getQueryVariable(variable) {
+//   var query = window.location.search.substring(1);
+//   var vars = query.split('&');
+
+//   for (var i = 0; i < vars.length; i++) {
+//     var pair = vars[i].split('=');
+
+//     if (pair[0] === variable) {
+//       return decodeURIComponent(pair[1].replace(/\+/g, '%20'));
+//     }
+//   }
+// }
+
+// var searchTerm = getQueryVariable('query');
+
+
+</script>

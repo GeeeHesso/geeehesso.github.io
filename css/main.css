@@ -1,5 +1,16 @@
 body { margin: 60px auto; width: 100%; background-color: #f6f4f2;}
 
+/* Drop down selection */
+
+select {
+	-webkit-appearance: none;
+       -moz-appearance: none;
+	background-color: #f6f4f2;
+	color: black;
+	text-align: center;
+	width: 200px;
+}
+
 a.mail_link { text-decoration: none; color: #2d8dcf;}
 a.mail_link:hover { text-decoration: underline; color: #024675; }
 

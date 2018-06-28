@@ -1,5 +1,72 @@
 body { margin: 60px auto; width: 100%; background-color: #f6f4f2;}
 
+/*Side menu*/
+
+.sidebutton {
+	position: fixed;
+	top: 50%;
+	right: 0;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	transition: 1s;
+}
+
+.sidebutton a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  color: white;
+  /*font-size: 20px;*/
+}
+
+
+.sidearrow {
+	background: #333;
+  	color: white;
+}
+
+
+.sidenav {
+	border-style: none;
+	box-shadow: -5px 5px 2px grey;
+    height: auto;
+    width: 0;
+	position: fixed;
+	top: 50%;
+	right: 0;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+    background-color: #f6f4f2;
+    overflow-x: hidden;
+    /*transition: 0.5s;*/
+    /*padding-top: 60px;*/
+}
+
+
+
+.sidenav a {
+    padding: 8px 8px 8px 8px;
+    text-decoration: none;
+    /*font-size: 25px;*/
+    color: black;
+    margin-left: 20px;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav .closebtn {
+    position: fixed;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+    left: 0px;
+    /*font-size: 36px;*/
+    margin-left: 0px;
+}
+
 /* Drop down selection */
 
 select {

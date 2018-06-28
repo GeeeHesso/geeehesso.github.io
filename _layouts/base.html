@@ -61,7 +61,31 @@
 				
 	    		</ul>
 			</nav>
-			
+
+			<!-- ###################### -->
+
+			<div id="sideButton" class="sidebutton" onclick="openNav()">
+  				<a href="#" class="sidearrow"><i class="fa fa-caret-left fa-2x"></i></a> 
+  			</div>
+
+			<div id="mySidenav" class="sidenav">
+				<a href="javascript:void(0)" class="closebtn" onclick="closeNav()"><i class="fa fa-caret-right fa-2x"></i></a>
+				<a href="/" style="font-size: 35px; padding-bottom: 1.5em; padding-top: 0.5em;"><i>	What's new?</i></a>
+				<a href="/publications" style="font-size: 20px;"><b>	Publication</b></a>
+				<a href="#" class="link" style="padding-left:3em;" id="el_pubs"></a>
+				<a href="/inthenews" style="font-size: 20px;"><b>	News</b></a>
+				<a href="#" class="link" style="padding-left:3em;" id="el_news"></a>
+				<a href="/talks" style="font-size: 20px;"><b>	Talk</b></a>
+				<a href="#" class="link" style="padding-left:3em;" id="el_talk"></a>
+				<a href="/blog" style="font-size: 20px;"><b>	Blog</b></a>
+				<a href="#" class="link" style="padding-left:3em; padding-bottom: 1em" id="el_blog"></a>
+				<div align=right>
+					<a style="font-size: 10px" id="el_update"></a>
+				</div>
+			</div>
+
+			<!-- ###################### -->
+
 			{{ content }}
 			
 			
@@ -70,5 +94,54 @@
 	        		<li><a class="footer link" href="https://github.com/GeeeHesso" target="_blank"><img src="/image/GitHubMark1.png" alt="" style="float:left;width:22px;">&nbsp;&nbsp;&nbsp;github.com/GeeeHesso</a></li>
 				</ul>
 			</footer>
+
+			<!-- ###################### -->
+
+			<script>
+			function openNav() {
+			    document.getElementById("mySidenav").style.width = "60%";
+			    document.getElementById("mySidenav").style.border = "solid";
+			    document.getElementById("sideButton").style.width = "0";
+			}
+
+			function closeNav() {
+			    document.getElementById("mySidenav").style.width = "0";
+			    document.getElementById("mySidenav").style.border = "none";
+			    document.getElementById("sideButton").style.width = "auto";
+			}
+			</script>
+			<script>
+			  	window.store = {
+					{% for post in site.posts %}
+						{% unless post.search == "exclude" %}
+							"{{ post.url | slugify }}": {
+							"title"    : "{{ post.title | escape }}",
+							"url"      : "{{ site.baseurl }}{{ post.url }}",
+							"category" : "{{ post.category }}",
+							"tags"     : "{{ post.tags | join: ', ' }}",
+							"date"     : "{{ post.date }}"
+
+							} {% unless forloop.last %},{% endunless %}
+						{% endunless %}      
+					{% endfor %}
+			  	};			  
+			</script>
+			<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+			<script src="/whatnew.js"></script>
+			<script>
+				var time = {time: "{{site.time}}"}; 
+				console.log(time.time)
+				console.log(time.time[6])
+				time2 = time.time.split(" ")[0]
+				var string_update='<i>Last update : '
+				string_update += time2
+				string_update += '</i>'
+				console.log(time2)
+				var el_update = document.getElementById('el_update');
+				el_update.innerHTML = string_update;
+			</script>
+
+			<!-- ###################### -->
+
 		</body>
 	</html>

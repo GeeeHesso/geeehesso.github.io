@@ -131,13 +131,10 @@
 			<script src="/whatnew.js"></script>
 			<script>
 				var time = {time: "{{site.time}}"}; 
-				console.log(time.time)
-				console.log(time.time[6])
 				time2 = time.time.split(" ")[0]
 				var string_update='<i>Last update : '
 				string_update += time2
 				string_update += '</i>'
-				console.log(time2)
 				var el_update = document.getElementById('el_update');
 				el_update.innerHTML = string_update;
 			</script>

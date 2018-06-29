@@ -28,7 +28,7 @@ body { margin: 60px auto; width: 100%; background-color: #f6f4f2;}
 
 
 .sidenav {
-	z-index: 2;
+	z-index: 0;
 	border-style: none;
 	box-shadow: -5px 5px 7px grey;
     height: auto;
@@ -241,7 +241,6 @@ a.footer
 /*dropdown small menu on the right*/
 .dropdown_menu
 {
-	z-index: 10;
 	position: absolute;
 	/*color: red;*/
 	/*width: 500%;*/
@@ -301,6 +300,7 @@ a.footer
 /*Top Menu*/
 
 .top {
+	z-index: 1;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;

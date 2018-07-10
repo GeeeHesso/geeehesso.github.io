@@ -4,26 +4,35 @@ body { margin: 60px auto; width: 100%; background-color: #f6f4f2;}
 
 .sidebutton {
 	position: fixed;
-	top: 50%;
+	top: 30%;
 	right: 0;
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
 	transition: 1s;
+	
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+/*	transform: rotate(270deg);*/
+	transform-origin: right bottom 0;
 }
 
 .sidebutton a {
-  display: block;
-  text-align: center;
-  padding: 16px;
-  color: white;
-  /*font-size: 20px;*/
+	display: block;
+	text-align: left;
+	padding: 16px;
+	color: white;
+	/*font-size: 20px;*/
 }
 
 
 .sidearrow {
 	background: #333;
   	color: white;
+	text-decoration: none;
+/*	writing-mode: tb-rl;*/
 }
 
 
@@ -31,41 +40,41 @@ body { margin: 60px auto; width: 100%; background-color: #f6f4f2;}
 	z-index: 0;
 	border-style: none;
 	box-shadow: -5px 5px 7px grey;
-    height: auto;
-    width: 0;
+	height: auto;
+	width: 0;
 	position: fixed;
 	top: 50%;
 	right: 0;
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
-    background-color: #f6f4f2;
-    overflow-x: hidden;
-    /*transition: 0.5s;*/
-    /*padding-top: 60px;*/
+	background-color: #f6f4f2;
+	overflow-x: hidden;
+	/*transition: 0.5s;*/
+	/*padding-top: 60px;*/
 }
 
 
 
 .sidenav a {
-    padding: 8px 8px 8px 8px;
-    text-decoration: none;
-    /*font-size: 25px;*/
-    color: black;
-    margin-left: 20px;
-    display: block;
-    transition: 0.3s;
+	padding: 8px 8px 8px 8px;
+	text-decoration: none;
+	/*font-size: 25px;*/
+	color: black;
+	margin-left: 20px;
+	display: block;
+	transition: 0.3s;
 }
 
 .sidenav .closebtn {
-    position: fixed;
-    top: 50%;
-    -webkit-transform: translateY(-50%);
+	position: fixed;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
-    left: 0px;
-    /*font-size: 36px;*/
-    margin-left: 0px;
+	left: 0px;
+	/*font-size: 36px;*/
+	margin-left: 0px;
 }
 
 /* Drop down selection */
@@ -110,81 +119,84 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em;}
 /*Some images*/
 
 img {
-width:100%; height:auto;
+	width:100%; 
+	height:auto;
 }
 
 img.research_img {
-width:100%; height:auto;
+	width:100%; 
+	height:auto;
 }
 
 img.research_img:hover {
-    box-shadow: 0 0 5px 1px rgba(100, 100, 100, 0.8);
+	box-shadow: 0 0 5px 1px rgba(100, 100, 100, 0.8);
 }
 
 img.map_detail {
-width:100%; height:auto;
+	width:100%; 
+	height:auto;
 }
 
 img.banner{
-width:100%
+	width:100%
 }
 
 /*image with the links*/
 
 div.research_img > div{
-/*    margin: auto;*/
-    display: inline-block;
-    width: 24%;
-    text-align: center;
+/*    	margin: auto;*/
+	display: inline-block;
+	width: 24%;
+	text-align: center;
 }
 
 div.map_img > div{
-/*    margin: auto;*/
-    display: inline-block;
-    width: 44%;
-    text-align: center;
+/*    	margin: auto;*/
+	display: inline-block;
+	width: 44%;
+	text-align: center;
 }
 
 div.map_img > div img:hover {
-    box-shadow: 0 0 5px 1px rgba(100, 100, 100, 0.8);
+    	box-shadow: 0 0 5px 1px rgba(100, 100, 100, 0.8);
 }
 
 .container_img {
-    position: relative;
-    text-align: center;
-    color: black;
+	position: relative;
+	text-align: center;
+	color: black;
 }
 
 .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 /*-----------*/
 /*People page construction*/
 
 .p_column{
-    float: right;
-    width: 50%;
+	float: right;
+	width: 50%;
 }
 
 .p_row:after {
-    content: "";
-    display: table;
-    clear: both;
+	content: "";
+	display: table;
+	clear: both;
 }
 
 
 .p_column2{
-    float: left;
-    width: 50%;
+	float: left;
+	width: 50%;
 }
 
 .p_row2:after {
-    content: "";
-    display: table;
-    clear: both;
+	content: "";
+	display: table;
+	clear: both;
 }
 
 img.imp_people {
@@ -195,7 +207,7 @@ img.imp_people {
 /*-----------*/
 
 input {
-    width: 200px;
+	width: 200px;
 }
 
 /*Body of text*/

@@ -10,7 +10,7 @@ averted it altogether. Nathaniel Rich investigated actions taken by visionary sc
 
 "After the election, Reagan considered plans to close the Energy Department, increase coal production on federal land and deregulate surface coal mining. Once in office, he appointed James Watt, the president of a legal firm that fought to open public lands to mining and drilling, to run the Interior Department. “We’re deliriously happy,” the president of the National Coal Association was reported to have said. Reagan preserved the E.P.A. but named as its administrator Anne Gorsuch, an anti-regulation zealot who proceeded to cut the agency’s staff and budget by about a quarter. In the midst of this carnage, the Council on Environmental Quality submitted a report to the White House warning that fossil fuels could “permanently and disastrously” alter Earth’s atmosphere, leading to “a warming of the Earth, possibly with very serious effects.” Reagan did not act on the council’s advice. Instead, his administration considered eliminating the council."
 
-Saddly, it looks like Trump did not invent anything...
+Sadly enough, it looks like Trump did not invent anything...
 
 
 Link to the NYT Magazine :

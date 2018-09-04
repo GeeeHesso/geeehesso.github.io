@@ -1,21 +1,21 @@
 {
     "news": {
-	"n_00": {
+        "n_00": {
             "authors": "",
             "date": "2018",
-            "display": "Hydroélectricité et prix de l’électricité, <b>RTS</b>",
+            "display": "Hydro\u00e9lectricit\u00e9 et prix de l\u2019\u00e9lectricit\u00e9, <b>RTS</b>",
             "publisher": "RTS",
-            "tags": "",
-            "title": "Hydroélectricité et prix de l’électricité",
+            "tags": "Hydroelectricity",
+            "title": "Hydro\u00e9lectricit\u00e9 et prix de l\u2019\u00e9lectricit\u00e9",
             "url": "https://www.rts.ch/play/tv/19h30/video/les-barrages-hydroelectriques-suisses-profitent-dune-conjoncture-favorable--chances-et-defis-de-cette-technologie?id=9805704&station=a9e7621504c6959e35c3ecbe7f6bed0446cdf8da"
         },
-	"n_01": {
+        "n_01": {
             "authors": "",
             "date": "2018",
-            "display": "Hydroélectricité et prix de l’électricité, <b>RSI</b>",
+            "display": "Hydro\u00e9lectricit\u00e9 et prix de l\u2019\u00e9lectricit\u00e9, <b>RSI</b>",
             "publisher": "RSI",
-            "tags": "",
-            "title": "Hydroélectricité et prix de l’électricité",
+            "tags": "Hydroelectricity",
+            "title": "Hydro\u00e9lectricit\u00e9 et prix de l\u2019\u00e9lectricit\u00e9",
             "url": "https://www.rsi.ch/play/tv/telegiornale/video/27-08-2018-energia-idroelettrica-il-peggio-sembra-passato?id=10814813&station=rete-uno"
         },
         "n_02": {

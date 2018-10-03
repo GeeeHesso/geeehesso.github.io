@@ -18,3 +18,5 @@ Link to the conference web site :
 
 Link to the previous conference web site :
 * [Future Electric Power Systems and the Energy Transition](https://www.hevs.ch/epowersystems2017)
+
+<img src="/image/ePowerSystems19_flyerweb_1.10.png" alt="image" style="width: 700px;"/>

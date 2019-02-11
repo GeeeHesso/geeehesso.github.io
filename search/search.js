@@ -176,10 +176,10 @@ if (searchTerm_temp_2) {
       for (var key in data.presentations) { // Add the data to lunr
         this.add({
           'id': key,
-          'title': data.publication[key].title,
-          'author': data.publication[key].authors,
-          'category': data.publication[key].date,
-          'tags':data.publication[key].tags
+          'title': data.presentations[key].title,
+          'author': data.presentations[key].authors,
+          'category': data.presentations[key].date,
+          'tags':data.presentations[key].tags
           //'content': window.store[key].content
             });
           }
@@ -190,7 +190,7 @@ if (searchTerm_temp_2) {
     if (searchTerm_temp_3){
       results3 = idx.search(searchTerm_temp_3); // Get lunr to perform a search
     }
-    displaySearchResults(results, results2, results3, data.publication, 'search_results_pres','Talks'); 
+    displaySearchResults(results, results2, results3, data.presentations, 'search_results_pres','Talks'); 
   });
 
 //People

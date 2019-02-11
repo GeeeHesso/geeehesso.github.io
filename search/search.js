@@ -173,7 +173,7 @@ if (searchTerm_temp_2) {
       this.field('tags');
       //this.field('content');
     
-      for (var key in data.publication) { // Add the data to lunr
+      for (var key in data.presentations) { // Add the data to lunr
         this.add({
           'id': key,
           'title': data.publication[key].title,

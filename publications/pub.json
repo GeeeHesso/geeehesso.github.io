@@ -1,9 +1,9 @@
 {
     "publication": {
         "p_00": {
-            "authors": "M.Tyloo, R.Delabays, and P.Jacquod",
+            "authors": "M. Tyloo, R. Delabays, and P. Jacquod",
             "date": "2019",
-            "display": "M.Tyloo, R.Delabays, and P.Jacquod, <i>Noise-induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks</i>",
+            "display": "M. Tyloo, R. Delabays, and P. Jacquod, <i>Noise-induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks</i>",
             "publisher": "",
             "tags": "network_stability, network_stability, network stability escape time noise",
             "title": "Noise-induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks",
@@ -37,9 +37,9 @@
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/transport/transport.pdf"
         },
         "p_04": {
-            "authors": "Ph. Jacquod, L. Pagnier",
+            "authors": "P. Jacquod, L. Pagnier",
             "date": "2019",
-            "display": "Ph. Jacquod, L. Pagnier, <i>Optimal Placement of Inertia and Primary Control in High Voltage Power Grid</i>",
+            "display": "P. Jacquod, L. Pagnier, <i>Optimal Placement of Inertia and Primary Control in High Voltage Power Grid</i>",
             "publisher": "",
             "tags": "Network Robustness, ",
             "title": "Optimal Placement of Inertia and Primary Control in High Voltage Power Grid",

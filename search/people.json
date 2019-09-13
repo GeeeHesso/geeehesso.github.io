@@ -14,7 +14,7 @@
             "date": "", 
             "display": "Robin Delabays", 
             "publisher": "", 
-            "tags": "Doc, PHd, doctorate, student, Robin, Delabays", 
+            "tags": "Doc, PHd, doctorate, student, Robin, Delabays, post doc", 
             "title": "Robin Delabays", 
             "url": "https://www.hevs.ch/en/rad-instituts/institute-of-systems-engineering/collaborateurs/research-assistant/delabays-6225"
         }, 
@@ -23,7 +23,7 @@
             "date": "", 
             "display": "Laurent Pagnier", 
             "publisher": "", 
-            "tags": "doc, PHd, doctorate, student, Laurent, Pagnier", 
+            "tags": "doc, PHd, doctorate, student, Laurent, Pagnier, post doc", 
             "title": "Laurent Pagnier", 
             "url": "https://www.hevs.ch/en/rad-instituts/institute-of-systems-engineering/collaborateurs/research-assistant/pagnier-5763"
         }, 
@@ -44,6 +44,33 @@
             "tags": "doc, PHd, doctorate, student, Melvyn, Tyloo", 
             "title": "Melvyn Tyloo", 
             "url": "https://www.hevs.ch/en/rad-institutes/institute-of-systems-engineering/collaborateurstyloo-13028"
+        },
+	"p_04": {
+            "authors": "", 
+            "date": "", 
+            "display": "André Reggio", 
+            "publisher": "", 
+            "tags": "doc, PHd, doctorate, student, André, Andre, Reggio", 
+            "title": "André Reggio", 
+            "url": "https://www.hevs.ch/en/rad-institutes/institute-of-sustainable-energy/collaborateurs/phd-candidate/reggio-20409"
+        },
+	"p_04": {
+            "authors": "", 
+            "date": "", 
+            "display": "Glory Mary Givi", 
+            "publisher": "", 
+            "tags": "doc, PHd, doctorate, student, Glory,Mary, Givi", 
+            "title": "Glory Mary Givi", 
+            "url": "https://www.hevs.ch/de/afe-institute/institut-energie-und-umwelt/collaborateurs/doktorant-in/givi-21448"
+        },
+	"p_04": {
+            "authors": "", 
+            "date": "", 
+            "display": "Koen van Walstijn", 
+            "publisher": "", 
+            "tags": "doc, PHd, doctorate, student, Koen, van Walstijn,Walstijn", 
+            "title": "Koen van Walstijn", 
+            "url": ""
         }
     }
 }

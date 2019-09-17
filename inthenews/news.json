@@ -3,13 +3,22 @@
         "n_00": {
             "authors": "", 
             "date": "2019", 
+            "display": "Les trois piliers de la durabilit\u00e9, <b>Le Nouvelliste</b>", 
+            "publisher": "Le Nouvelliste", 
+            "tags": "", 
+            "title": "Les trois piliers de la durabilit\u00e9", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Durabilite_NF"
+        }, 
+        "n_01": {
+            "authors": "", 
+            "date": "2019", 
             "display": "Conf\u00e9rence Internationale \u00e0 Champ\u00e9ry, <b>Canal 9</b>", 
             "publisher": "Canal 9", 
             "tags": "Energy ransition ", 
             "title": "Conf\u00e9rence Internationale \u00e0 Champ\u00e9ry", 
             "url": "http://canal9.ch/des-scientifiques-cherchent-des-solutions-pour-deployer-massivement-les-energies-renouvelables-ils-se-rencontrent-a-champery/"
         }, 
-        "n_01": {
+        "n_02": {
             "authors": "", 
             "date": "2019", 
             "display": "Changements politiques et consommateurs, <b>Canal 9</b>", 
@@ -18,7 +27,7 @@
             "title": "Changements politiques et consommateurs", 
             "url": "http://canal9.ch/transition-energetique-les-politiques-doivent-etre-moins-frileux-et-les-consommateurs-doivent-changer-leurs-habitudes-estime-le-prof-philippe-jacquod"
         }, 
-        "n_02": {
+        "n_03": {
             "authors": "", 
             "date": "2019", 
             "display": "Conf\u00e9rence Internationale \u00e0 Champ\u00e9ry, <b>Le Nouvelliste</b>", 
@@ -27,7 +36,7 @@
             "title": "Conf\u00e9rence Internationale \u00e0 Champ\u00e9ry", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Champery_NF"
         }, 
-        "n_03": {
+        "n_04": {
             "authors": "", 
             "date": "2019", 
             "display": "L'occident doit \u00eatre exemplaire en mati\u00e8re d'\u00e9nergie, <b>Le Nouvelliste</b>", 
@@ -35,15 +44,6 @@
             "tags": "", 
             "title": "L'occident doit \u00eatre exemplaire en mati\u00e8re d'\u00e9nergie", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Occident_Exemplaire_NF"
-        }, 
-        "n_04": {
-            "authors": "", 
-            "date": "2019", 
-            "display": "Les trois piliers du d\u00e9veloppement durable, <b>Le Nouvelliste</b>", 
-            "publisher": "Le Nouvelliste", 
-            "tags": "", 
-            "title": "Les trois piliers du d\u00e9veloppement durable", 
-            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/NF_durabilite"
         }, 
         "n_05": {
             "authors": "", 

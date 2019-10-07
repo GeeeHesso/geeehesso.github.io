@@ -2,7 +2,7 @@
 layout: post
 title: "New Partnership with Swissgrid"
 display_title: "Future Electric Power Grids - Research Partnership with Swissgrid"
-date: 2019-08-07
+date: 2019-10-07
 tags: research project Swissgrid
 ---
 
@@ -11,3 +11,5 @@ We recently started a research project funded by Swissgrid, Switzerland's electr
 
 Link to the news post :
 * [Réseaux du futur: un nouveau partenariat entre SwissGrid et l’institut Energie et Environnement](https://www.hevs.ch/en/hautes-ecoles/school-of-engineering/energy-environmental-engineering/news/power-grids-of-the-future-partnership-between-swissgrid-and-the-institute-of-sustainable-energy-22078)
+
+<img src="/image/vhv_pole.jpg" alt="image" style="width: 700px;"/>

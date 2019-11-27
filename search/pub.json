@@ -1,6 +1,15 @@
 {
     "publication": {
         "p_00": {
+            "authors": "M. Tyloo, L. Pagnier, P. Jacquod", 
+            "date": "2019", 
+            "display": "M. Tyloo, L. Pagnier, P. Jacquod, <i>The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities</i>", 
+            "publisher": "", 
+            "tags": "", 
+            "title": "The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/key_players/key_player_sc_adv.pdf"
+        }, 
+        "p_01": {
             "authors": "Robin Delabays", 
             "date": "2019", 
             "display": "Robin Delabays, <i>Dynamical equivalence between Kuramoto models with first- and higher-order coupling</i>, Chaos", 
@@ -9,7 +18,7 @@
             "title": "Dynamical equivalence between Kuramoto models with first- and higher-order coupling", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/Delabays19c/Delabays19c.pdf"
         }, 
-        "p_01": {
+        "p_02": {
             "authors": "P. Jacquod", 
             "date": "2019", 
             "display": "P. Jacquod, <i>Eigenstate Thermalization and Ensemble Equivalence in Few-Body Fermionic Systems</i>", 
@@ -18,7 +27,7 @@
             "title": "Eigenstate Thermalization and Ensemble Equivalence in Few-Body Fermionic Systems", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/Thermalization/EThermalization.pdf"
         }, 
-        "p_02": {
+        "p_03": {
             "authors": "J. Hindes, P. Jacquod, and I.B. Schwartz", 
             "date": "2019", 
             "display": "J. Hindes, P. Jacquod, and I.B. Schwartz, <i>Network Desynchronization by Non-Gaussian Fluctuations</i>", 
@@ -27,7 +36,7 @@
             "title": "Network Desynchronization by Non-Gaussian Fluctuations", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/NonGaussian/NonGaussian.pdf"
         }, 
-        "p_03": {
+        "p_04": {
             "authors": "M. Tyloo, R. Delabays, and P. Jacquod", 
             "date": "2019", 
             "display": "M. Tyloo, R. Delabays, and P. Jacquod, <i>Noise-Induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks</i>", 
@@ -36,7 +45,7 @@
             "title": "Noise-Induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/Stochastic_Escape/Stochastic_Escape.pdf"
         }, 
-        "p_04": {
+        "p_05": {
             "authors": "L. Pagnier, P. Jacquod", 
             "date": "2019", 
             "display": "L. Pagnier, P. Jacquod, <i>Optimal Placement of Inertia and Primary Control : a Matrix Perturbation Theory Approach</i>", 
@@ -45,7 +54,7 @@
             "title": "Optimal Placement of Inertia and Primary Control : a Matrix Perturbation Theory Approach", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/perturbation_fin/perturbation_fin.pdf"
         }, 
-        "p_05": {
+        "p_06": {
             "authors": "R. Delabays, M. Tyloo, and P. Jacquod", 
             "date": "2019", 
             "display": "R. Delabays, M. Tyloo, and P. Jacquod, <i>Rate of Change of Frequency Under Line Contingencies in High Voltage Electric Power Networks with Uncertainties</i>", 
@@ -54,7 +63,7 @@
             "title": "Rate of Change of Frequency Under Line Contingencies in High Voltage Electric Power Networks with Uncertainties", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/rocof/rocof.pdf"
         }, 
-        "p_06": {
+        "p_07": {
             "authors": "P. Jacquod, L. Pagnier", 
             "date": "2019", 
             "display": "P. Jacquod, L. Pagnier, <i>Transport d\u2019\u00c9lectricit\u00e9 et Avenir \u00c9nerg\u00e9tique : Refonte du Mode de Fonctionnement des R\u00e9seaux</i>", 
@@ -63,7 +72,7 @@
             "title": "Transport d\u2019\u00c9lectricit\u00e9 et Avenir \u00c9nerg\u00e9tique : Refonte du Mode de Fonctionnement des R\u00e9seaux", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/transport/transport.pdf"
         }, 
-        "p_07": {
+        "p_08": {
             "authors": "P. Jacquod, L. Pagnier", 
             "date": "2019", 
             "display": "P. Jacquod, L. Pagnier, <i>Optimal Placement of Inertia and Primary Control in High Voltage Power Grid</i>", 
@@ -72,7 +81,7 @@
             "title": "Optimal Placement of Inertia and Primary Control in High Voltage Power Grid", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/optimal_inertia_ciss19/optimal_inertia_ciss19.pdf"
         }, 
-        "p_08": {
+        "p_09": {
             "authors": "M. Tyloo, P. Jacquod", 
             "date": "2019", 
             "display": "M. Tyloo, P. Jacquod, <i>Global Robustness vs. Local Vulnerabilities in Complex Synchronous Networks</i>", 
@@ -81,7 +90,7 @@
             "title": "Global Robustness vs. Local Vulnerabilities in Complex Synchronous Networks", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/Global_vs_Local_Vulnerabilities/Global_vs_Local_Vulnerabilities.pdf"
         }, 
-        "p_09": {
+        "p_10": {
             "authors": "R. Delabays, P. Jacquod, and F. Doerfler", 
             "date": "2019", 
             "display": "R. Delabays, P. Jacquod, and F. Doerfler, <i>The Kuramoto Model on Oriented and Signed Graphs</i>", 
@@ -90,7 +99,7 @@
             "title": "The Kuramoto Model on Oriented and Signed Graphs", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/Oriented_Kuramoto/oriented_kuramoto.pdf"
         }, 
-        "p_10": {
+        "p_11": {
             "authors": "L. Pagnier, P. Jacquod", 
             "date": "2018", 
             "display": "L. Pagnier, P. Jacquod, <i>Inertia Location and Slow Network Modes Determine Disturbance Propagation in Large-scale Power Grids</i>", 
@@ -98,15 +107,6 @@
             "tags": "", 
             "title": "Inertia Location and Slow Network Modes Determine Disturbance Propagation in Large-scale Power Grids", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2018/Papers/inertia/inertia_old.pdf"
-        }, 
-        "p_11": {
-            "authors": "M. Tyloo, L. Pagnier, P. Jacquod", 
-            "date": "2018", 
-            "display": "M. Tyloo, L. Pagnier, P. Jacquod, <i>The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities</i>", 
-            "publisher": "", 
-            "tags": "", 
-            "title": "The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities", 
-            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2018/Papers/key_players/key_player_combined.pdf"
         }, 
         "p_12": {
             "authors": "L. Pagnier, P. Jacquod", 

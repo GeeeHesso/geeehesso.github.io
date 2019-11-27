@@ -11,4 +11,5 @@ It took us a long time to get this published. And we could have good reasons to 
 Link to the news post :
 * [Most vulnerable components identified by resistance centralities in electric power grids](https://advances.sciencemag.org/content/5/11/eaaw8359)
 
-<img src="/image/vhv_pole.jpg" alt="image" style="width: 700px;"/>
+<img src="/image/Tyloo_Jacquod.jpg" alt="image" style="width: 700px;"/>
+<img src="/image/TylooSlideCover.jpg" alt="image" style="width: 700px;"/>

@@ -3,13 +3,40 @@
         "p_00": {
             "authors": "", 
             "date": "2019", 
+            "display": "Robustness of elections results against external influence, <b>Torino</b>", 
+            "publisher": "Torino", 
+            "tags": "network_robustness, Opinion dynamics, Robustness", 
+            "title": "Robustness of elections results against external influence, Torino", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/torino_election_robustness"
+        }, 
+        "p_01": {
+            "authors": "", 
+            "date": "2019", 
+            "display": "Near Equilibrium Dynamics and Transitions in Complex Network-Coupled Systems, <b>Berlin, Germany</b>", 
+            "publisher": "Berlin, Germany", 
+            "tags": "network_robustness, Networks", 
+            "title": "Near Equilibrium Dynamics and Transitions in Complex Network-Coupled Systems, Berlin, Germany", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Humboldt"
+        }, 
+        "p_02": {
+            "authors": "", 
+            "date": "2019", 
+            "display": "Rate of Change of Frequency under line contingencies, <b>IWCSN 2019, Berlin, Germany</b>", 
+            "publisher": "IWCSN 2019, Berlin, Germany", 
+            "tags": "network_robustness, RoCoF, Line contingency, Robustness", 
+            "title": "Rate of Change of Frequency under line contingencies, IWCSN 2019, Berlin, Germany", 
+            "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/IWCSN19_Delabays"
+        }, 
+        "p_03": {
+            "authors": "", 
+            "date": "2019", 
             "display": "The Physics of Electric Power Systems, <b>Physics Colloquium, University of Basel, Switzerland</b>", 
             "publisher": "Physics Colloquium, University of Basel, Switzerland", 
             "tags": "", 
             "title": "The Physics of Electric Power Systems, Physics Colloquium, University of Basel, Switzerland", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Physics_Colloquium_Basel"
         }, 
-        "p_01": {
+        "p_04": {
             "authors": "", 
             "date": "2019", 
             "display": "Optimal placement of inertia and primary control: a matrix perturbation theory approach, <b>IWCSN2019, Berlin, Germany</b>", 
@@ -18,7 +45,7 @@
             "title": "Optimal placement of inertia and primary control: a matrix perturbation theory approach, IWCSN2019, Berlin, Germany", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/pagnier_iwcsn2019"
         }, 
-        "p_02": {
+        "p_05": {
             "authors": "", 
             "date": "2019", 
             "display": "Optimal Placement of Inertia and Primary Control in High Voltage Power Grids, <b>Dynamics Days, Rostock, Germany</b>", 
@@ -27,7 +54,7 @@
             "title": "Optimal Placement of Inertia and Primary Control in High Voltage Power Grids, Dynamics Days, Rostock, Germany", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Jacquod_Dynamics_Days_Rostock"
         }, 
-        "p_03": {
+        "p_06": {
             "authors": "", 
             "date": "2019", 
             "display": "The Key Player Problem in Realistic Large-Scale Power Grids, <b>Dynamics Days, Rostock, Germany</b>", 
@@ -36,7 +63,7 @@
             "title": "The Key Player Problem in Realistic Large-Scale Power Grids, Dynamics Days, Rostock, Germany", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Dynamics_Days_Rostock"
         }, 
-        "p_04": {
+        "p_07": {
             "authors": "", 
             "date": "2019", 
             "display": "Quantifying Vulnerabilities of Complex  Oscillatory Networks, <b>Johns Hopkins University, Baltimore, USA</b>", 
@@ -45,7 +72,7 @@
             "title": "Quantifying Vulnerabilities of Complex  Oscillatory Networks, Johns Hopkins University, Baltimore, USA", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Johns_Hopkins_Tyloo"
         }, 
-        "p_05": {
+        "p_08": {
             "authors": "", 
             "date": "2019", 
             "display": "The (Quantum ?) Physics of Electric Power Systems, <b>Yale Quantum Institute, New Haven, USA</b>", 
@@ -54,7 +81,7 @@
             "title": "The (Quantum ?) Physics of Electric Power Systems, Yale Quantum Institute, New Haven, USA", 
             "url": ""
         }, 
-        "p_06": {
+        "p_09": {
             "authors": "", 
             "date": "2019", 
             "display": "Des aspects de la transition \u00e9nerg\u00e9tique et leurs effets sur les r\u00e9seaux \u00e9lectriques, <b>Soutenance, Sion</b>", 
@@ -63,7 +90,7 @@
             "title": "Des aspects de la transition \u00e9nerg\u00e9tique et leurs effets sur les r\u00e9seaux \u00e9lectriques, Soutenance, Sion", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Sion_laurent"
         }, 
-        "p_07": {
+        "p_10": {
             "authors": "", 
             "date": "2019", 
             "display": "Optimal Placement of Inertia and Primary Droop Control vs. Slow Network Modes in High Voltage Power Grids, <b>CISS19, Johns Hopkins, Baltimore, USA</b>", 
@@ -72,7 +99,7 @@
             "title": "Optimal Placement of Inertia and Primary Droop Control vs. Slow Network Modes in High Voltage Power Grids, CISS19, Johns Hopkins, Baltimore, USA", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/CISS19"
         }, 
-        "p_08": {
+        "p_11": {
             "authors": "", 
             "date": "2019", 
             "display": "Bounding the desynchronization time in electrical grids under fluctuating sources, <b>FEPSET19, Champ\u00e9ry</b>", 
@@ -81,7 +108,7 @@
             "title": "Bounding the desynchronization time in electrical grids under fluctuating sources, FEPSET19, Champ\u00e9ry", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Delabays"
         }, 
-        "p_09": {
+        "p_12": {
             "authors": "", 
             "date": "2019", 
             "display": "Resistance Centralities Identify Local Vulnerabilities in Electric Power Grids,<b>FEPSET19, Champ\u00e9ry</b>", 
@@ -90,7 +117,7 @@
             "title": "Resistance Centralities Identify Local Vulnerabilities in Electric Power Grids,FEPSET19, Champ\u00e9ry", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Tyloo"
         }, 
-        "p_10": {
+        "p_13": {
             "authors": "", 
             "date": "2019", 
             "display": "Grid Science Winter School and Conference, <b>Grid Science, Santa Fe, New Mexico, USA</b>", 
@@ -99,7 +126,7 @@
             "title": "Grid Science Winter School and Conference, Grid Science, Santa Fe, New Mexico, USA", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Grid_Science_Santa_Fe"
         }, 
-        "p_11": {
+        "p_14": {
             "authors": "", 
             "date": "2019", 
             "display": "NREL Brown Bag Talk, <b>NREL, Golden, Colorado, USA</b>", 
@@ -108,7 +135,7 @@
             "title": "NREL Brown Bag Talk, NREL, Golden, Colorado, USA", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/NREL_Golden"
         }, 
-        "p_12": {
+        "p_15": {
             "authors": "", 
             "date": "2019", 
             "display": "CCDC Seminar, <b>CCDC, UC Santa Barbara, California, USA</b>", 
@@ -117,7 +144,7 @@
             "title": "CCDC Seminar, CCDC, UC Santa Barbara, California, USA", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/UC_Santa_Barbara"
         }, 
-        "p_13": {
+        "p_16": {
             "authors": "", 
             "date": "2018", 
             "display": "Transient Performance of Electric Power Networks under Colored Noise, <b>57th IEEE Conference on Decision and Control, Miami Beach, USA</b>", 
@@ -126,7 +153,7 @@
             "title": "Transient Performance of Electric Power Networks under Colored Noise, 57th IEEE Conference on Decision and Control, Miami Beach, USA", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/CDC_Miami"
         }, 
-        "p_14": {
+        "p_17": {
             "authors": "", 
             "date": "2018", 
             "display": "Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices, <b>International School on Informatics and Dynamics in Complex Networks, University of Catania, Italy</b>", 
@@ -135,7 +162,7 @@
             "title": "Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices, International School on Informatics and Dynamics in Complex Networks, University of Catania, Italy", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Catania_School_Complex_Networks"
         }, 
-        "p_15": {
+        "p_18": {
             "authors": "", 
             "date": "2018", 
             "display": "Multistability in Electric Power Grids on Meshed, Complex Networks, <b>Dynamics Days Europe 2018, Loughborough University, UK</b>", 
@@ -144,7 +171,7 @@
             "title": "Multistability in Electric Power Grids on Meshed, Complex Networks, Dynamics Days Europe 2018, Loughborough University, UK", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Dynamics_Days_Loughborough"
         }, 
-        "p_16": {
+        "p_19": {
             "authors": "", 
             "date": "2018", 
             "display": "Global Robustness vs. Local Vulnerabilities in Network-coupled Dynamical Systems, <b>International Workshop on Disordered Systems, PCS-ICS Daejeon, South Korea</b>", 
@@ -153,7 +180,7 @@
             "title": "Global Robustness vs. Local Vulnerabilities in Network-coupled Dynamical Systems, International Workshop on Disordered Systems, PCS-ICS Daejeon, South Korea", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DisSLoTT"
         }, 
-        "p_17": {
+        "p_20": {
             "authors": "", 
             "date": "2018", 
             "display": "Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies, <b>7th IFAC Workshop on Distributed Estimation and Control in Networked Systems, University of Groningen, Netherlands</b>", 
@@ -162,7 +189,7 @@
             "title": "Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies, 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems, University of Groningen, Netherlands", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Necsys18_Groningen"
         }, 
-        "p_18": {
+        "p_21": {
             "authors": "", 
             "date": "2018", 
             "display": "Multiple Presentations, <b>Bad Honnef, Germany</b>", 
@@ -171,7 +198,7 @@
             "title": "Multiple Presentations, Bad Honnef, Germany", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef"
         }, 
-        "p_19": {
+        "p_22": {
             "authors": "", 
             "date": "2018", 
             "display": "Le r\u00e9seau strat\u00e9gique 2025 de Swissgrid, <b>Creation Talk, Sion</b>", 
@@ -180,7 +207,7 @@
             "title": "Le r\u00e9seau strat\u00e9gique 2025 de Swissgrid, Creation Talk, Sion", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Le_reseau_strategique_2025_de_Swissgrid"
         }, 
-        "p_20": {
+        "p_23": {
             "authors": "", 
             "date": "2018", 
             "display": "Global Robustness vs. Local Vulnerabilities in Network-coupled Dynamical Systems, <b>Seminar at DQMP, University of Geneva</b>", 
@@ -189,7 +216,7 @@
             "title": "Global Robustness vs. Local Vulnerabilities in Network-coupled Dynamical Systems, Seminar at DQMP, University of Geneva", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DQMP_Geneva"
         }, 
-        "p_21": {
+        "p_24": {
             "authors": "", 
             "date": "2017", 
             "display": "Multiple Presentations, <b>Santa Fe, USA</b>", 
@@ -198,7 +225,7 @@
             "title": "Multiple Presentations, Santa Fe, USA", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe"
         }, 
-        "p_22": {
+        "p_25": {
             "authors": "", 
             "date": "2017", 
             "display": "A pan-European dispatch model for the energy transition in the electricity sector, <b>Powertech, Manchester, UK</b>", 
@@ -207,7 +234,7 @@
             "title": "A pan-European dispatch model for the energy transition in the electricity sector, Powertech, Manchester, UK", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech"
         }, 
-        "p_23": {
+        "p_26": {
             "authors": "", 
             "date": "2017", 
             "display": "The Price of Synchrony in a Power Grid with Fluctuating Feed-In, <b>Condynet, Potsdam, Germany</b>", 
@@ -216,7 +243,7 @@
             "title": "The Price of Synchrony in a Power Grid with Fluctuating Feed-In, Condynet, Potsdam, Germany", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam"
         }, 
-        "p_24": {
+        "p_27": {
             "authors": "", 
             "date": "2017", 
             "display": "Multiple Presentations, <b>FEPSET17, Champ\u00e9ry</b>", 
@@ -225,7 +252,7 @@
             "title": "Multiple Presentations, FEPSET17, Champ\u00e9ry", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champ\u00e9ry"
         }, 
-        "p_25": {
+        "p_28": {
             "authors": "", 
             "date": "2017", 
             "display": "Vortex Flows in High Voltage AC Power Grids, <b>BIRS, Banff, Canada</b>", 
@@ -234,7 +261,7 @@
             "title": "Vortex Flows in High Voltage AC Power Grids, BIRS, Banff, Canada", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff"
         }, 
-        "p_26": {
+        "p_29": {
             "authors": "", 
             "date": "2016", 
             "display": "Transition \u00c9nerg\u00e9tique et R\u00e9seaux \u00c9lectriques : D\u00e9fis et Opportunit\u00e9s, <b>PROMES, Caf\u00e9 des Sciences, Perpignan, France</b>", 
@@ -243,7 +270,7 @@
             "title": "Transition \u00c9nerg\u00e9tique et R\u00e9seaux \u00c9lectriques : D\u00e9fis et Opportunit\u00e9s, PROMES, Caf\u00e9 des Sciences, Perpignan, France", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Caf\u00e9_des_Sciences_Perpignan"
         }, 
-        "p_27": {
+        "p_30": {
             "authors": "", 
             "date": "2016", 
             "display": "Topologically Protected Vortex Flows in High Voltage AC Power Grids, <b>Condynet, Bremen, Germany</b>", 
@@ -252,7 +279,7 @@
             "title": "Topologically Protected Vortex Flows in High Voltage AC Power Grids, Condynet, Bremen, Germany", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Condynet_Bremen"
         }, 
-        "p_28": {
+        "p_31": {
             "authors": "", 
             "date": "2016", 
             "display": "Multiple Presentations, <b>Dynamics Days, Corfu, Greece</b>", 
@@ -261,7 +288,7 @@
             "title": "Multiple Presentations, Dynamics Days, Corfu, Greece", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Dynamics_Days_Corfou"
         }, 
-        "p_29": {
+        "p_32": {
             "authors": "", 
             "date": "2016", 
             "display": "Loop Flows in High Voltage AC Power Grids, <b>ETHZ, Zurich</b>", 
@@ -270,7 +297,7 @@
             "title": "Loop Flows in High Voltage AC Power Grids, ETHZ, Zurich", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/ETHZ"
         }, 
-        "p_30": {
+        "p_33": {
             "authors": "", 
             "date": "2016", 
             "display": "Large electric load fluctuations and how to suppress them with DSM, <b>IEEE, Ljubljana, Slovenia</b>", 
@@ -279,7 +306,7 @@
             "title": "Large electric load fluctuations and how to suppress them with DSM, IEEE, Ljubljana, Slovenia", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Ljubljana"
         }, 
-        "p_31": {
+        "p_34": {
             "authors": "", 
             "date": "2015", 
             "display": "High-voltage Electric Power Transport, <b>Konstanz, Germany</b>", 
@@ -288,7 +315,7 @@
             "title": "High-voltage Electric Power Transport, Konstanz, Germany", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Konstanz"
         }, 
-        "p_32": {
+        "p_35": {
             "authors": "", 
             "date": "2015", 
             "display": "Tournant \u00c9nerg\u00e9tique dans le Secteur \u00c9lectrique, <b>Pecha Kucha, Sion</b>", 
@@ -297,7 +324,7 @@
             "title": "Tournant \u00c9nerg\u00e9tique dans le Secteur \u00c9lectrique, Pecha Kucha, Sion", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Pecha_Kucha"
         }, 
-        "p_33": {
+        "p_36": {
             "authors": "", 
             "date": "2014", 
             "display": "Synchrony and Stability in Electric Power Systems, <b>ECS14, mpipks, Dresden, Germany</b>", 
@@ -306,7 +333,7 @@
             "title": "Synchrony and Stability in Electric Power Systems, ECS14, mpipks, Dresden, Germany", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/ECS14"
         }, 
-        "p_34": {
+        "p_37": {
             "authors": "", 
             "date": "2014", 
             "display": "Transmission Phase through Finite-sized Electron Systems, <b>IWDS14, USA</b>", 
@@ -315,7 +342,7 @@
             "title": "Transmission Phase through Finite-sized Electron Systems, IWDS14, USA", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/IWDS14"
         }, 
-        "p_35": {
+        "p_38": {
             "authors": "", 
             "date": "2014", 
             "display": "Integrating Intermittent Renewables Into Electric Power Systems, <b>SET14</b>", 
@@ -324,7 +351,7 @@
             "title": "Integrating Intermittent Renewables Into Electric Power Systems, SET14", 
             "url": "https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/SET14"
         }, 
-        "p_36": {
+        "p_39": {
             "authors": "", 
             "date": "2014", 
             "display": "Detecting Majorana Fermions through Persistent Currents in Normal-Superconducting Rings, <b>EPFL</b>", 

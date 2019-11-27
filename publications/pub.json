@@ -12,8 +12,8 @@
         "p_01": {
             "authors": "Robin Delabays", 
             "date": "2019", 
-            "display": "Robin Delabays, <i>Dynamical equivalence between Kuramoto models with first- and higher-order coupling</i>, Chaos", 
-            "publisher": "Chao", 
+            "display": "Robin Delabays, <i>Dynamical equivalence between Kuramoto models with first- and higher-order coupling</i>", 
+            "publisher": "", 
             "tags": "network_stability, Synchronization, Kuramoto, Clustering", 
             "title": "Dynamical equivalence between Kuramoto models with first- and higher-order coupling", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2019/Papers/Delabays19c/Delabays19c.pdf"

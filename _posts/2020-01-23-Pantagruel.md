@@ -8,10 +8,6 @@ tags: Pantagruel - Open Access power grid model
 
 PanTaGruEl, our new Open Access, dynamical model of the synchronous grid of Continental Europe is up and running and available online ! 
 
-You can freely download it on 
-
-https://zenodo.org/record/2642175#.XhxFHet7mfV
-
 The model has been designed primarily to investigate disturbance propagation in the continental Europe transmission grid. Its (almost!) unique feature is that it has geographical localization of all buses, lines and power plants. Additionally, it proposes a number of standard functionalities such as
 
 - a demographic algorithm to distribute national demands on network buses

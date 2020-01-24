@@ -20,7 +20,7 @@ The model has been designed primarily to investigate disturbance propagation in 
 
 The model is meant to evolve, become more precise and include further functionalities in the future. It has been developed for use with Matpower. We would be happy to  develop it further for use in a different language, or with added functionalities upon demand. For any suggestions and/or requests please contact philippe.jacquod@hevs.ch or laurentpagnier@math.arizona.edu . We also welcome any feedback you may have.
 
-Link to the news post :
+Link to PanTaGruEl : 
 * [PanTaGruEl - Open Access model of the European transmission grid](https://zenodo.org/record/2642175#.Xirjcut7nUp)
 
-<img src="/image/map_inertia.pdf" alt="image" style="width: 700px;"/>
+<img src="/image/map_inertia.jpeg" alt="image" style="width: 700px;"/>

@@ -3,7 +3,7 @@
         "p_00": {
             "authors": "Melvyn Tyloo, Robin Delabays, Philippe Jacquod", 
             "date": "2020", 
-            "display": "Melvyn Tyloo, Robin Delabays, Philippe Jacquod, <i>Network Reconstruction with Ambient Noise</i>, (submitted)", 
+            "display": "Melvyn Tyloo, Robin Delabays, Philippe Jacquod, <i>Network Reconstruction with Ambient Noise</i>", 
             "publisher": "", 
             "tags": "network_robustness, Inference, network, reconstruction, noise", 
             "title": "Network Reconstruction with Ambient Noise", 
@@ -12,8 +12,8 @@
         "p_01": {
             "authors": "Fabian Baumann, Igor. M Sokolov, Melvyn Tyloo", 
             "date": "2020", 
-            "display": "Fabian Baumann, Igor. M Sokolov, Melvyn Tyloo, <i> A Laplacian Approach to Stubborn Agents and their Role in Opinion Formation on Influence Networks</i>, Physica A: Statistical Mechanics and its Applications 557 (2020) 124869", 
-            "publisher": "Physica A: Statistical Mechanics and its Applications 557", 
+            "display": "Fabian Baumann, Igor. M Sokolov, Melvyn Tyloo, <i> A Laplacian Approach to Stubborn Agents and their Role in Opinion Formation on Influence Networks</i>", 
+            "publisher": "", 
             "tags": "network_robustness, Opinion dynamics, Network, consensus, taylor", 
             "title": " A Laplacian Approach to Stubborn Agents and their Role in Opinion Formation on Influence Networks", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2020/Papers/physica_a/physica_a.pdf"
@@ -21,8 +21,8 @@
         "p_02": {
             "authors": "Melvyn Tyloo, Philippe Jacquod", 
             "date": "2020", 
-            "display": "Melvyn Tyloo, Philippe Jacquod, <i>Primary Control Effort under Fluctuating Power Generation in Realistic High-Voltage Power Networks</i>,  IEEE Control Systems Letters ( Volume: 5 , Issue: 3 , July 2021 )", 
-            "publisher": " IEEE Control Systems Letters", 
+            "display": "Melvyn Tyloo, Philippe Jacquod, <i>Primary Control Effort under Fluctuating Power Generation in Realistic High-Voltage Power Networks</i>", 
+            "publisher": "", 
             "tags": "network_robustness, Control, damping, inertia, power, grids", 
             "title": "Primary Control Effort under Fluctuating Power Generation in Realistic High-Voltage Power Networks", 
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2020/Papers/LCSS/LCSS.pdf"

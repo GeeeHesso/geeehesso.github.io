@@ -1,15 +1,6 @@
 {
     "publication": {
         "p_00": {
-            "authors": "Julian Fritzsch, Philippe Jacquod",
-            "date": "2022",
-            "display": "Julian Fritzsch, Philippe Jacquod, <i>Long Wavelength Coherency in Well Connected Electric Power Networks</i>, IEEE Access",
-            "publisher": "IEEE Acces",
-            "tags": "network_stability, ",
-            "title": "Long Wavelength Coherency in Well Connected Electric Power Networks",
-            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2022/Papers/longwavelength/Long_Wavelength_Coherency_in_Well_Connected_Electric_Power_Networks.pdf"
-        },
-        "p_01": {
             "authors": "Laurent Pagnier, Julian Fritzsch, Michael Chertkov, Philippe Jacquod",
             "date": "2022",
             "display": "Laurent Pagnier, Julian Fritzsch, Michael Chertkov, Philippe Jacquod, <i>Toward Model Reduction for Power System Transients With Physics-Informed PDE</i>, IEEE Access",
@@ -17,6 +8,15 @@
             "tags": "network_stability, ",
             "title": "Toward Model Reduction for Power System Transients With Physics-Informed PDE",
             "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2022/Papers/ContMod/Toward_Model_Reduction_for_Power_System_Transients_With_Physics-Informed_PDE.pdf"
+        },
+        "p_01": {
+            "authors": "Julian Fritzsch, Philippe Jacquod",
+            "date": "2022",
+            "display": "Julian Fritzsch, Philippe Jacquod, <i>Long Wavelength Coherency in Well Connected Electric Power Networks</i>, IEEE Access",
+            "publisher": "IEEE Acces",
+            "tags": "network_stability, ",
+            "title": "Long Wavelength Coherency in Well Connected Electric Power Networks",
+            "url": "https://github.com/GeeeHesso/Perpetuation/blob/master/2022/Papers/longwavelength/Long_Wavelength_Coherency_in_Well_Connected_Electric_Power_Networks.pdf"
         },
         "p_02": {
             "authors": "Julian Fritzsch, Melvyn Tyloo, Philippe Jacquod",
